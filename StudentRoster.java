@@ -1,5 +1,8 @@
 package com.assignment8;
 
+//vishvajit Gadakari
+//Shiv Patil
+
 import java.util.*;
 class Student {
     String name;
